@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, from Arizona
+- 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, from Arizona 🏜️🌵
 - 👀 I’m interested in in Generative Ai and its practical applications
 - 🌱 I’m currently learning Generative Ai and ML Machine Learning
 - 🫱🏾‍🫲🏻 I’m looking to collaborate on a Couple Ai Projects
-- 📫 How to reach me , the best way email me at karhtickarun2009@gmail.com
+- 📫 How to reach me , the best way email me at karthickarun2009@gmail.com
