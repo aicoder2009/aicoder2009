@@ -1,5 +1,5 @@
 # My README.md
-### last updated sunday october 15th
+last updated sunday october 15th
 ***
 ## About me
 - 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, from Arizona 🏜️🌵, USA 🇺🇸
@@ -10,5 +10,8 @@
  ## My projects showcase
 this is a showcase for my projects.
 ***
-## My organizations
-@aigenie01
+## Aigenie
+As you may of already seen one of my github organizations is _Aigenie_&trade;, Aigenie is an ai company I founded and am CEO of, we are focused on the future ai and ai tools and producing those tools to help people be productive, our mission is to "Revolutionize the future of AI".<sup>*</sup>
+***
+## Follow me on mine and my company (Aigenie) socials
+Follow me and my companys' socials by visiting my bio link here: [Click here to view my bio link](https://karthickarun.streamlit.app/)
