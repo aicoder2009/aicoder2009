@@ -1,5 +1,4 @@
 # My README.md
-last updated sunday october 15th
 ***
 ## About me
 - 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, from Arizona 🏜️🌵, USA 🇺🇸
