@@ -5,7 +5,7 @@
 - 👀 I’m interested in in Generative Ai and its practical applications
 - 🌱 I’m currently learning Generative Ai and ML Machine Learning
 - 🫱🏾‍🫲🏻 I’m looking to collaborate and get feedback on a Couple Ai Projects that are in the works
-- 📫 How to reach me , the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
+- 📫 How to reach me , TBH the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
 <!-- ## My projects showcase
 this is a showcase for my projects.
 ***
