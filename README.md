@@ -1,11 +1,14 @@
 # My README.md
 ***
 ## About me
-- 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, from Arizona 🏜️🌵, USA 🇺🇸
+- 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, I am a Junior @ Basha High from Arizona 🏜️🌵, USA 🇺🇸
 - 👀 I’m interested in in Generative Ai and its practical applications
 - 🌱 I’m currently learning Generative Ai and ML Machine Learning
+- 🎤 I host The AI Tripod Podcast
+- 🛠️ I am currently interested in AI integrations at the Core System Level and Core Application Level
+- 👨‍💻 I currently am the Founder & CEO of Aigenie Enterprises
 - 🫱🏾‍🫲🏻 I’m looking to collaborate and get feedback on a Couple Ai Projects that are in the works
-- 📫 How to reach me , TBH the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
+- 📫 How to reach me , tbh the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
 <!-- ## My projects showcase
 this is a showcase for my projects.
 ***
