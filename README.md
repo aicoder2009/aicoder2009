@@ -9,6 +9,9 @@
 - 👨‍💻 I currently am the Founder & CEO of Aigenie Enterprises
 - 🫱🏾‍🫲🏻 I’m looking to collaborate and get feedback on a Couple Ai Projects that are in the works
 - 📫 How to reach me , tbh the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
+***
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
+
 <!-- ## My projects showcase
 this is a showcase for my projects.
 ***
