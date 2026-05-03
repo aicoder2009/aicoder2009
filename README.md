@@ -8,7 +8,6 @@
 - 👀 I'm interested in Generative AI and its practical applications
 - 🌱 I'm currently learning Generative AI and ML / Machine Learning
 - 🎙️ I host The AI Tripod Podcast
-- 🔧 I am currently interested in AI integrations at the Core System Level and Core Application Level
 - 🧑‍💼 I currently am the Founder & CEO of Setu Labs building [Lucky](lucky.setulabs.ai)
 - 🤝 I'm looking to collaborate and get feedback on a couple AI projects that are in the works
 - 📫 How to reach me — the best way is to email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
