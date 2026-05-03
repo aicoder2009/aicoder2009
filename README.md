@@ -35,8 +35,6 @@
 - 🎓 khanacademyMCP — Unofficial MCP server for Khan Academy, since there isn't one yet — [repo](https://github.com/aicoder2009/khanacademyMCP)
 - 🕴️ linkedin-publicist — MCP that turns any AI agent into your professional LinkedIn publicist — [repo](https://github.com/aicoder2009/linkedin-publicist)
 - 🕐 dotclock — Digital recreation of the Alfa Zeta flip display, playable on any screen — [repo](https://github.com/aicoder2009/dotclock)
-- 📚 Encarta26 — A full revival of Encarta 96, celebrating its 30th anniversary and bringing it to 2026 — [repo](https://github.com/aicoder2009/Encarta26)
-
 ---
 
 ## Connect
