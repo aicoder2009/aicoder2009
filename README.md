@@ -30,7 +30,7 @@
 
 - 💰 Penny — AI budgeting app using Apple's Foundation Models + VisionKit for camera-based affordability checks. Built for the 2026 Swift Student Challenge — [repo](https://github.com/aicoder2009/Penny)
 - 🐍 SnakeID — AI-powered snake identification PWA. Point your camera at a snake, get an instant species ID and venomous/non-venomous classification with emergency guidance. Built with Next.js + OpenAI Vision + AWS Lambda — [repo](https://github.com/aicoder2009/SnakeID) · [live](https://snakeid-karthickaruns-projects.vercel.app)
-- 🗣️ Linguarush — Wordle-inspired web game where you race to identify languages from text samples. 20+ languages, four game modes, real-time timing, shareable results — [repo](https://github.com/aicoder2009/Linguarush) · [live](https://language-speedrun.vercel.app)
+- 🗣️ Linguarush — Wordle-inspired web game where you race to identify languages from text samples. 20+ languages, four game modes, real-time timing, shareable results — [repo](https://github.com/aicoder2009/Linguarush) · [live](https://linguarush.vercel.app)
 - 📖 opencitation — Open source citation machine with no ads and ease of use — [repo](https://github.com/aicoder2009/opencitation) · [live](https://opencitation.vercel.app)
 - 🎓 khanacademyMCP — Unofficial MCP server for Khan Academy, since there isn't one yet — [repo](https://github.com/aicoder2009/khanacademyMCP) · [live](https://khanmcp.vercel.app)
 - 🕴️ linkedin-publicist — MCP that turns any AI agent into your professional LinkedIn publicist — [repo](https://github.com/aicoder2009/linkedin-publicist)
