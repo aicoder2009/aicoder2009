@@ -1,22 +1,47 @@
 # My README.md
-***
-## About me
-- 👋 Hi, I’m @aicoder2009, my name is Karthick Arun, I am a Junior @ Basha High from Arizona 🏜️🌵, USA 🇺🇸
-- 👀 I’m interested in in Generative Ai and its practical applications
-- 🌱 I’m currently learning Generative Ai and ML Machine Learning
-- 🎤 I host The AI Tripod Podcast
-- 🛠️ I am currently interested in AI integrations at the Core System Level and Core Application Level
-- 👨‍💻 I currently am the Founder & CEO of Aigenie Enterprises
-- 🫱🏾‍🫲🏻 I’m looking to collaborate and get feedback on a Couple Ai Projects that are in the works
-- 📫 How to reach me , tbh the best way email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
-***
-{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 
-<!-- ## My projects showcase
-this is a showcase for my projects.
-***
-## Aigenie
-As you may of already seen one of my github organizations is _Aigenie_&trade;, Aigenie is an ai company I founded and am CEO of, we are focused on the future ai and ai tools and producing those tools to help people be productive, our mission is to "Revolutionize the future of AI".<sup>*</sup>
-***
-## Follow me on mine and my company (Aigenie) socials
-Follow me and my companys' socials by visiting my bio link here: [Click here to view my bio link](https://karthickarun.streamlit.app/)
+---
+
+## About me
+
+- 👋 Hi, I'm @aicoder2009, my name is Karthick Arun, I am a Junior @ Basha High from Arizona 🦅🌵, USA 🇺🇸
+- 👀 I'm interested in Generative AI and its practical applications
+- 🌱 I'm currently learning Generative AI and ML / Machine Learning
+- 🎙️ I host The AI Tripod Podcast
+- 🔧 I am currently interested in AI integrations at the Core System Level and Core Application Level
+- 🧑‍💼 I currently am the Founder & CEO of Setu Labs building [Lucky](lucky.setulabs.ai)
+- 🤝 I'm looking to collaborate and get feedback on a couple AI projects that are in the works
+- 📫 How to reach me — the best way is to email me at karthickarun2009@gmail.com, I'll be sure to respond very shortly
+
+---
+
+## Tech Stack
+
+- 💻 Languages: TypeScript, Python, HTML/CSS
+- 🤖 AI / ML: OpenAI, Anthropic Claude, Google Gemini, HuggingFace, Unsloth
+- 🛠️ Dev Tools: Claude Code, Gemini CLI, Codex, Context7
+- 🌐 Frameworks: Next.js
+- ☁️ Cloud & Hosting: AWS (Lambda, S3, DynamoDB, Bedrock), Vercel
+- 🗄️ Databases: Supabase, Firebase, DynamoDB, Convex
+
+---
+
+## Featured Projects
+
+- 💰 Penny — AI budgeting app using Apple's Foundation Models + VisionKit for camera-based affordability checks. Built for the 2026 Swift Student Challenge — [repo](https://github.com/aicoder2009/Penny)
+- 🐍 SnakeID — AI-powered snake identification PWA. Point your camera at a snake, get an instant species ID and venomous/non-venomous classification with emergency guidance. Built with Next.js + OpenAI Vision + AWS Lambda — [repo](https://github.com/aicoder2009/SnakeID)
+- 🗣️ Linguarush — Wordle-inspired web game where you race to identify languages from text samples. 20+ languages, four game modes, real-time timing, shareable results — [repo](https://github.com/aicoder2009/Linguarush)
+- 📖 opencitation — Open source citation machine with no ads and ease of use — [repo](https://github.com/aicoder2009/opencitation)
+- 🎓 khanacademyMCP — Unofficial MCP server for Khan Academy, since there isn't one yet — [repo](https://github.com/aicoder2009/khanacademyMCP)
+- 🕴️ linkedin-publicist — MCP that turns any AI agent into your professional LinkedIn publicist — [repo](https://github.com/aicoder2009/linkedin-publicist)
+- 🕐 dotclock — Digital recreation of the Alfa Zeta flip display, playable on any screen — [repo](https://github.com/aicoder2009/dotclock)
+- 📚 Encarta26 — A full revival of Encarta 96, celebrating its 30th anniversary and bringing it to 2026 — [repo](https://github.com/aicoder2009/Encarta26)
+
+---
+
+## Connect
+
+- 🔗 LinkedIn: linkedin.com/in/karthickarun
+- 🌍 Portfolio: aicoder2009.github.io
+- 📧 Email: karthickarun2009@gmail.com
+- 🔬 ORCID: orcid.org/0009-0006-0626-7621
